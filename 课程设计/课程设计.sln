@@ -1,0 +1,12 @@
+Microsoft Visual Studio Solution File, Format Version 1.00
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "课程设计", "课程设计.dsp", "{F345559B-52CB-457B-BC2D-E7F5ABE403D4}"
+EndProject
+Global
+	GlobalSection(LocalDeployment) = postSolution
+		StartupProject = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(BuildOrder) = postSolution
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal
